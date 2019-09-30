@@ -1,4 +1,4 @@
-Answers.MD
+Answers.MD - Kankou Denkey
 
 What is the difference between an adaptive website and a fully responsive website?
 
